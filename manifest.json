@@ -1,8 +1,8 @@
 {
-  "version": "0.2.3",
+  "version": "0.3.0",
   "target": "b-u585i-iot02a",
-  "image": "heater-fw-0.2.3.bin",
-  "size": 302108,
-  "sha256": "3d3d113e86e21f3e375c5fb56fc150ec33887c4b4bb9c7f507dca53c23da7d88",
-  "signature": "9e91c0333b16a5b93c33722565036463385ab68e172e7f816e6d174a6d64e3d50464a3b09a9cd1249f92eb89582f1f280b7e50b35a2eedd9d5513fb78a0c150a"
+  "image": "heater-fw-0.3.0.bin",
+  "size": 488132,
+  "sha256": "58816fd1a55da2ae1d5ce59d6c387eaa0f4eebdd40868e8f5de9e711518fe87e",
+  "signature": "bb5575d1c9683f1f86ac4c35752719b7449f20a469045f93965c3a34958c014e839f9ca1621ef73a01e73f4104d62b2385a3e1bb9b705e0a534bca22cf327802"
 }
