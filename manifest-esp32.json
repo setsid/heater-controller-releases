@@ -1,8 +1,8 @@
 {
-  "version": "0.3.9",
+  "version": "0.3.10",
   "target": "esp32-wroom-32",
-  "image": "heater-esp32-0.3.9.bin",
-  "size": 1294704,
-  "sha256": "3977a78fb114821c800a6386d84ff2ce17279877778cecab9c561a271d5ef7eb",
-  "signature": "844e63c5d1624f1d0fa6230774b7fc85a3d1a8acd800ee5ece92f8fbf266b71e75af3a74b9b28891d46d22e5a00549bed15e3ec73840246d6f0eb10a73a84207"
+  "image": "heater-esp32-0.3.10.bin",
+  "size": 1292656,
+  "sha256": "99987d5e87700e17e8ce272f7469ad1dfee16b754d466997dd8302143d55949a",
+  "signature": "57b3125f19148a825f6dc29cf4953ee5811f1abdd9c3c1d4a9dc941feab0358b2cc8ef771283d6045c81987c8107bf6299dd21a2b35c5d76fa97da0c6d5b2904"
 }
